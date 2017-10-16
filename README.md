@@ -7,6 +7,7 @@ mv rfBro.sh /home/$USER/bin/rf/rfBro.sh`
 
 # Setup - Create a cron job for the user this will run as
 `crontab -e`
+
 Add the following line (can be tweaked if you want job to run more/less often):
 `30 0,3,7,11,13,15,19,23 * * * /home/$USER/bin/rf/rfBro.sh`]
 
