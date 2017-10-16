@@ -4,8 +4,7 @@ Bro / Recorded Future Intel integration script
 # Setup
 Create directory and move script there:
 
-`mkdir -p /home/$USER/bin/rf/
-mv rfBro.sh /home/$USER/bin/rf/rfBro.sh`
+`mkdir -p /home/$USER/bin/rf/ && mv rfBro.sh /home/$USER/bin/rf/rfBro.sh`
 
 Edit script and add your Recorded Future API key to the variable APITOKEN:
 
