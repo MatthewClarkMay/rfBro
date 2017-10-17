@@ -1,5 +1,5 @@
 # rfBro
-Bro / Recorded Future Intel integration script
+Security Onion / Bro / Recorded Future Intel integration script
 
 # Setup
 Move repository /home/$USER/bin/
